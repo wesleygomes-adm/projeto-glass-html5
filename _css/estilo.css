@@ -5,8 +5,7 @@
 	src: url("../_fonts/bubllegum-sans-regular.otf");
 }
 html {
-	/* background-color: #dddddd; */
-	background-color: #606060;
+	background-color: #dddddd;
 	color: rgba(0,0,0,1);
 }
 
